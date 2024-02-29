@@ -1,0 +1,127 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RPPP_WebApp
+build_property.RootNamespace = RPPP_WebApp
+build_property.ProjectDir = C:\Users\Domagoj\Desktop\rppp_pr\webapp-02\RPPP-WebApp\RPPP-WebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Domagoj\Desktop\rppp_pr\webapp-02\RPPP-WebApp\RPPP-WebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/Dokumentacija/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdW1lbnRhY2lqYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/Dokumentacija/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdW1lbnRhY2lqYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/Dokumentacija/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdW1lbnRhY2lqYVxHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/Dokumentacija/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdW1lbnRhY2lqYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/Projekt/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVrdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/Projekt/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVrdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/Projekt/Edit2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVrdFxFZGl0Mi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/Projekt/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVrdFxHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/Projekt/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVrdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/Projekt/Index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVrdFxJbmRleDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/Shared/IncludeValidation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEluY2x1ZGVWYWxpZGF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/Shared/_Nav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/ViewLog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld0xvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/ViewLog/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlld0xvZ1xTaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/VrstaDokumentacije/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnJzdGFEb2t1bWVudGFjaWplXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/VrstaDokumentacije/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnJzdGFEb2t1bWVudGFjaWplXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/VrstaDokumentacije/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnJzdGFEb2t1bWVudGFjaWplXEdldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/VrstaDokumentacije/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnJzdGFEb2t1bWVudGFjaWplXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/VrstaProjekta/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnJzdGFQcm9qZWt0YVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/VrstaProjekta/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnJzdGFQcm9qZWt0YVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/VrstaProjekta/Get.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnJzdGFQcm9qZWt0YVxHZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/VrstaProjekta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVnJzdGFQcm9qZWt0YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Domagoj/Desktop/rppp_pr/webapp-02/RPPP-WebApp/RPPP-WebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
